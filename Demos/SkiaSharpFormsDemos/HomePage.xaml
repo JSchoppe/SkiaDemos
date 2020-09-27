@@ -42,6 +42,47 @@
                           Detail="If you are going to use an infinite loading circle at least make it as infuriating as possible"
                           Command="{Binding NavigateCommand}"
                           CommandParameter="{x:Type local:JethrosExample.InfuriatingLoadingRing}" />
+
+                <TextCell Text="SkiaSharp Transforms"
+                          Detail="Learn about transforms for modifying graphics"
+                          Command="{Binding NavigateCommand}"
+                          CommandParameter="{x:Type local:Transforms.TransformsHomePage}" />
+                <TextCell Text="SkiaSharp Transforms"
+                          Detail="Learn about transforms for modifying graphics"
+                          Command="{Binding NavigateCommand}"
+                          CommandParameter="{x:Type local:Transforms.TransformsHomePage}" />
+                <TextCell Text="SkiaSharp Transforms"
+                          Detail="Learn about transforms for modifying graphics"
+                          Command="{Binding NavigateCommand}"
+                          CommandParameter="{x:Type local:Transforms.TransformsHomePage}" />
+                <TextCell Text="SkiaSharp Transforms"
+                          Detail="Learn about transforms for modifying graphics"
+                          Command="{Binding NavigateCommand}"
+                          CommandParameter="{x:Type local:Transforms.TransformsHomePage}" />
+                <TextCell Text="SkiaSharp Transforms"
+                          Detail="Learn about transforms for modifying graphics"
+                          Command="{Binding NavigateCommand}"
+                          CommandParameter="{x:Type local:Transforms.TransformsHomePage}" />
+                <TextCell Text="SkiaSharp Transforms"
+                          Detail="Learn about transforms for modifying graphics"
+                          Command="{Binding NavigateCommand}"
+                          CommandParameter="{x:Type local:Transforms.TransformsHomePage}" />
+                <TextCell Text="SkiaSharp Transforms"
+                          Detail="Learn about transforms for modifying graphics"
+                          Command="{Binding NavigateCommand}"
+                          CommandParameter="{x:Type local:Transforms.TransformsHomePage}" />
+                <TextCell Text="SkiaSharp Transforms"
+                          Detail="Learn about transforms for modifying graphics"
+                          Command="{Binding NavigateCommand}"
+                          CommandParameter="{x:Type local:Transforms.TransformsHomePage}" />
+                <TextCell Text="SkiaSharp Transforms"
+                          Detail="Learn about transforms for modifying graphics"
+                          Command="{Binding NavigateCommand}"
+                          CommandParameter="{x:Type local:Transforms.TransformsHomePage}" />
+                <TextCell Text="SkiaSharp Transforms"
+                          Detail="Learn about transforms for modifying graphics"
+                          Command="{Binding NavigateCommand}"
+                          CommandParameter="{x:Type local:Transforms.TransformsHomePage}" />
             </TableSection>
         </TableRoot>
     </TableView>
