@@ -37,7 +37,11 @@
                           Detail="Use gradients, bitmap tiling, blur, and drop shadow"
                           Command="{Binding NavigateCommand}"
                           CommandParameter="{x:Type local:Effects.EffectsHomePage}" />
-
+                
+                <TextCell Text="Jethros Effect"
+                          Detail="If you are going to use an infinite loading circle at least make it as infuriating as possible"
+                          Command="{Binding NavigateCommand}"
+                          CommandParameter="{x:Type local:JethrosExample.InfuriatingLoadingRing}" />
             </TableSection>
         </TableRoot>
     </TableView>
